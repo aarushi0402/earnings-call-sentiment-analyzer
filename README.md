@@ -167,11 +167,11 @@ Transcripts with `sentiment_delta < -0.15` are flagged as significant sentiment 
 ## 👩‍💻 Author
 
 **Aarushi Khanna**
-Manipal University Jaipur | BTech 2028
-Summer Intern @ Sopra Steria (June–July 2026)
+
+
 
 ---
 
 ## 📄 License
 
-This project is for educational and research purposes as part of an internship at Sopra Steria.
+This project is for educational and research purposes .
