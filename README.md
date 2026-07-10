@@ -2,7 +2,7 @@
 
 > An AI-powered NLP tool that analyzes sentiment in company earnings call transcripts using **FinBERT** and studies its correlation with stock price movement.
 
-Built during my summer internship at **Sopra Steria** (June–July 2026).
+
 
 ---
 
